@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Real Time Bus Tracker Exercise
+M.I.T xPRO Real Time Bus Tracker Exercise<br>
+Real Time Bus Tracker Exercise:<a href="https://pammie89.github.io/Real-Time-Bus-Tracker/"> Git Hub Pages</a><br>
+Real Time Bus Tracker Exercise:<a href="https://github.com/pammie89/Real-Time-Bus-Tracker.git"> Respositiory</a>
+___
 
-You can use the [editor on GitHub](https://github.com/pammie89/Real-Time-Bus-Tracker/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Project Explanation
+The Real Time Bus Tracker lets the user see exactly where are the busses are in real time.  It shows the North and South running bus routes.
+___
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pammie89/Real-Time-Bus-Tracker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contribution
+I was unable to code this project on my own, fortunately I was able to find help from a previous MIT x/Pro student.  This is the link of where I found the help I needed.<br>
+<a href="https://github.com/EliHeuman/Real-Time-Bus-Tracker.git">
